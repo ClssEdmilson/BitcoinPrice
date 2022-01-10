@@ -94,4 +94,4 @@ flutter:
 flutter_icons:
   android: true
   ios: true
-  image_path: "imagens/icon.png"
+  image_path: "imagens/Bitcoin-logo.png"
